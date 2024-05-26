@@ -1,7 +1,7 @@
 <h1 align="center">Hola a tothom 👋</h1>
 <h3 align="center">Sóc en Jordi Llop (:yum:llopFilms)</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=espai-astro&label=Visites Espai Astro&color=0e75b6&style=flat" alt="llopfilms Espai Angular" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=espai-astro&label=Visites Espai Astro&color=0e75b6&style=flat" alt="llopfilms Espai Astro" /> </p>
 
 <div align="center">🌱 Aquest és un espai pel desenvolupament web en &nbsp;:heavy_minus_sign:&nbsp; Astro 
 </div>
